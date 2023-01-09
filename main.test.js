@@ -1,6 +1,7 @@
 const {calculate_distance,calculate_speed} = require('./main');
 
 
+
 test ("calculating distance", () => {
     let a = {x: 0, y: 0};
     let b = {x: 5, y: 5};
