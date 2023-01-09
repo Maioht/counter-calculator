@@ -65,4 +65,4 @@ main();
 
 module.exports.calculate_distance = calculate_distance;
 module.exports.calculate_speed = calculate_speed;
-//Exports both functions, without overwrite another.
+//Exports both functions to unit test main.test.js, without overwrite another.
