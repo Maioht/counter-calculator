@@ -10,3 +10,10 @@ main program makes
   main.js : includes Functions calculates network speed and device distance, and main program.
 
   The calculation is run in the main program, which prints the desired information.
+
+
+
+Unit Test:
+unit testing has been done using the Jest framework.
+
+Simply tested how functions works. The unit tests pass, but changing the values (main.test.js) can fail. 
