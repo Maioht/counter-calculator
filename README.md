@@ -16,4 +16,4 @@ main program makes
 Unit Test:
 unit testing has been done using the Jest framework.
 
-Simply tested how functions works. The unit tests pass, but changing the values (main.test.js) can fail. 
+Simply tested how the functions work. The unit tests pass, but changing the values (main.test.js) can fail
