@@ -1,11 +1,11 @@
-# NordCloud-tech-assigment
 
 simply javascript program for network speed calculation for device
 
 Run program in nodeJs. <node main.js>
 
 There are two functions to calculate speed and distance.
-main program makes 
+main program makes       Cancel changes
+
   
   main.js : includes main program and Functions calculates network speed and device distance.
 
